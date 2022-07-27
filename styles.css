@@ -1,0 +1,28 @@
+*{
+ 
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+}
+
+#container{
+
+    width: 600px;
+    
+    margin: 10px auto;
+    height: 600px;
+}
+
+
+#container h1{
+    text-align: center;
+    font: size 42px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+dt{
+    font-size: 28px;
+    font-weight: 900;
+}
